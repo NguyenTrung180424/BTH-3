@@ -1,48 +1,115 @@
-.header{
-    display: flex;
-
+.img{
+    position: absolute;
 }
-.item-1{
-    position:absolute;
+.a{
     display: flex;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    border-bottom: 2px solid rgb(62, 62, 121);
-    padding-right: 212px;
-    
+    position: absolute;
+    color : white;
+    padding: 10px 0px;
+    border-bottom: 1px solid gray;
+    padding-left: 320px;
 }
 .a-1{
     display: flex;
-    padding-left: 450px;
-    color: rgb(255, 255, 255);
+}
+.a-1-1{
+    color: gray;
+    margin: 0px 0px;
+}
+.a-1-2{
+    margin: 0px 0px;
 }
 .a-2{
-    display:flex;
     list-style: none;
-    margin: 0px;
-    padding-left: 538px;
-    color: rgb(255, 255, 255);
+    margin-top: 0px;
+    margin-left: 543px;
+    
 }
-.x-2{
-    padding-left: 7px;
-    color: rgba(255, 255, 255, 0.582);
+.a-2 li{
+    display: inline-block;
+    margin-left: 15px;
 }
-.p-1{
-    padding-left: 30px;
-}
-.item-2{
-    position:absolute;
+.b{
+    margin-top: 7%;
     display: flex;
-    color: white;
-    margin-top: 100px;
-    padding-left: 450px;
+    position: absolute;
+    padding-left: 320px;
+    color : white;
+}
+.b-1{
+    font-size: 20px;
 }
 .b-2{
     list-style: none;
-    margin: 0px;
-    display: flex;
+    margin-top: 0px;
+    padding-left: 0px;
     margin-left: 90px;
 }
-.p-2{
+.b-2 li{
+    float: left;
+    margin-left: 30px;
+    font-size: 17px;
+}
+.body-1{
+    display: flex;
+    position:absolute;
+    top: 200px;
+    background-color: rgb(9, 9, 65);
+    padding-left: 322px;
+    padding-right: 130px;
+    padding-bottom: 70px;
+}
+.img-1{
+    margin-top: 30px;
+    position:absolute;
+}
+.c{
+    margin-top: 43px;
+    color: white;
+    margin-left: 590px;
+}
+.c-1{
+    font-size: 30px;
+}
+.c-2-1{
+    display:flex;
+    margin-top: 20px;
+    margin-bottom: -20px;
+}
+.p-1{
+    background-color: rgba(47, 47, 100, 0.797);
+    padding: 10px 0px;
+    padding-left: 10px;
+    padding-right: 150px;
+}
+.p-2 {
+    margin-left: 20px;
+    background-color: rgba(47, 47, 100, 0.797);
+    padding: 10px 0px;
+    padding-left: 10px;
+    padding-right: 175px;
     margin-left: 40px;
+}
+.p-3{
+    background-color: rgba(47, 47, 100, 0.797);
+    padding: 10px 0px;
+    padding-left: 10px;
+    padding-right: 160px;
+}
+.p-4{
+    margin-left: 20px;
+    background-color: rgba(47, 47, 100, 0.797);
+    padding: 10px 0px;
+    padding-left: 10px;
+    padding-right: 167px;
+    margin-left: 40px;
+}
+.c-2-2{
+    display:flex;
+}
+.c-3{
+    border: 2px solid rgb(202, 77, 0);
+    margin-left: 76%;
+    padding: 10px 10px;
+    color: rgb(186, 105, 0);
 }
