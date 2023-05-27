@@ -5,9 +5,9 @@
     display: flex;
     position: absolute;
     color : white;
-    padding: 10px 0px;
+    padding: 10px 153px;
     border-bottom: 1px solid gray;
-    padding-left: 320px;
+    padding-left: 217px;
 }
 .a-1{
     display: flex;
@@ -33,7 +33,7 @@
     margin-top: 7%;
     display: flex;
     position: absolute;
-    padding-left: 320px;
+    padding-left: 217px;
     color : white;
 }
 .b-1{
@@ -55,8 +55,8 @@
     position:absolute;
     top: 200px;
     background-color: rgb(9, 9, 65);
-    padding-left: 322px;
-    padding-right: 130px;
+    padding-left: 218px;
+    padding-right: 184px;
     padding-bottom: 70px;
 }
 .img-1{
@@ -87,7 +87,7 @@
     background-color: rgba(47, 47, 100, 0.797);
     padding: 10px 0px;
     padding-left: 10px;
-    padding-right: 175px;
+    padding-right: 207px;
     margin-left: 40px;
 }
 .p-3{
@@ -101,7 +101,7 @@
     background-color: rgba(47, 47, 100, 0.797);
     padding: 10px 0px;
     padding-left: 10px;
-    padding-right: 167px;
+    padding-right: 200px;
     margin-left: 40px;
 }
 .c-2-2{
@@ -112,4 +112,203 @@
     margin-left: 76%;
     padding: 10px 10px;
     color: rgb(186, 105, 0);
+}
+.body-2{
+    display:flex;
+    padding-top: 550px;
+    margin-left: 217px;
+}
+.col-1{
+    padding-right: 30px;
+}
+.news{
+    font-size: 25px;
+    border-bottom: 1px solid gray;
+    padding-right: 0px;
+    margin-right: 290px;
+    padding-bottom: 10px;
+}
+.news-1{
+    padding: 12px 0px;
+    border-bottom: 1px solid gray;
+}
+.n-1-1{
+    padding-bottom: 8px;
+    color: gray;
+}
+.ev-1-2{
+    padding: 16px 0px;
+    margin-left: 65px;
+}
+.d-1{
+    font-size: 17px;
+}
+.d-2{
+    color: gray;
+    margin-top: 8px;
+}
+.img-2{
+    margin-top: 18px;
+}
+.text-b-img{
+    margin-top: 10px;
+    color: gray;
+}
+.body-3{
+    display: flex;
+    background-color: rgb(0, 0, 84);
+    color: white;
+    margin-left: 218px;  
+    margin-right: 167px; 
+    padding-bottom: 50px;
+}
+.col-4{
+    margin-left: 40px;
+    margin-top: 50px;
+}
+.col-5{
+    margin-top: 50px;
+    margin-left: 155px;
+}
+.col-6{
+    margin-top: 50px;
+    margin-left: 125px;
+}
+.edu{
+    font-size: 25px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid gray;
+    margin-right: 40px;
+}
+.ul-1{
+    padding: 0px;
+    margin-left: 15px;
+}
+.ul-1 li{
+    padding-bottom: 10px;
+}
+.body-4{
+    display:flex;
+    margin-left: 218px;  
+    margin-right: 85px;
+    margin-top: 50px;
+}
+.face{
+    font-size: 25px;
+    border-bottom: 1px solid gray;
+    padding-bottom: 10px;
+    margin-right: 93px;
+}
+.img-lbr{
+    font-size: 25px;
+    border-bottom: 1px solid gray;
+    padding-bottom: 10px;
+    margin-right: 685px;
+}
+.row-1{
+    display: flex;
+    margin-top: 20px;
+    border: 1px solid gray;
+    padding: 10px 0px;
+    padding-right: 30px;
+}
+.face-1{
+    margin-right: 0px;
+    margin-left: 10px;
+}
+.e{
+    margin-left: 10px;
+}
+.e-1{
+    color:blue;
+    padding-bottom: 5px;
+    border-bottom: 1px solid gray;
+    margin-right: 40px;
+}
+.e-2{
+    margin-top: 5px;
+    color:gray;
+}
+.e-3{
+    margin-top: 5px;
+}
+.right{
+    margin-left: 41px;
+}
+.lbr-1{
+    margin-top: 20px;
+}
+
+.img-foot{
+    position:relative;
+    border-top: 15px solid rgb(232, 232, 232);
+}
+.box{
+    position:absolute;
+    top: 50px;
+    display:flex;
+    color: white;
+}
+.infor{
+    margin-left: 217px;
+}
+.in4-1{
+    font-size: 25px;
+    margin-top: 10px;
+    border-bottom: 1px solid gray;
+    margin-right: 38px;
+    padding-bottom: 15px;
+}
+.st-2{
+    margin-top: -10px;
+}
+.in4-3{
+    margin-top: 30px;
+}
+.st-3{
+    display:flex;
+    margin-top: 5px;
+}
+.st-4{
+    display:flex;
+    margin-top: 5px;
+}
+.email{
+    margin: 0px;
+}
+.link{
+    margin-left: 175px;
+}
+.link-1{
+    font-size: 25px;
+    margin-top: 10px;
+    border-bottom: 1px solid gray;
+    margin-right: 120px;
+    padding-bottom: 15px;
+}
+.link-2{
+    padding-top: 5px;
+    padding-left: 15px;
+}
+.introduce{
+    margin-left: 180px;
+}
+.intro{
+    font-size: 25px;
+    margin-top: 10px;
+    border-bottom: 1px solid gray;
+    margin-right: 278px;
+    padding-bottom: 15px;
+}
+.discript{
+    margin-top: 25px;
+    font-size: 14px;
+}
+.cpr{
+    position:absolute;
+    top: 330px;
+    color: white;
+    background-color: rgb(22, 33, 92);
+    padding: 12px 217px;
+    padding-right: 961px;
 }
